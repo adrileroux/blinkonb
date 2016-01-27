@@ -1,0 +1,60 @@
+
+h1.onb,h2.onb,h3.onb,h4.onb,h5.onb,h6.onb {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+h2.onb {
+	font-weight: 200; 
+	font-size: 40px;
+	color: #197a9b;
+	line-height: 48px;
+	padding-top: 5%;
+}
+
+h3.onb {
+	font-weight: 400; 
+	font-size: 30px;
+	color: #40b3d9;
+	line-height: 35px;
+	padding-top:10%;
+	letter-spacing: 1px
+}
+
+h4.onb {
+	font-weight: 900; 
+	font-size: 25px;
+	color: #000000;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+p.onb {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300; 
+	font-size: 16px;
+	color: #197a9b;
+	line-height: 29px;
+	padding: 0px 0px 0px 0px;
+}
+
+.centerimg {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    padding-top: 50%;
+}
+
+.images {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25%;
+}
+
+.slider {
+	height: 100vh;
+	background-color: #FFFFFF;
+}
+
