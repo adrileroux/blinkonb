@@ -5,11 +5,13 @@ h1.onb,h2.onb,h3.onb,h4.onb,h5.onb,h6.onb {
 }
 
 h2.onb {
-	font-weight: 200; 
+	font-weight: 300; 
 	font-size: 40px;
-	color: #197a9b;
+	color: #FFFFFF;
 	line-height: 48px;
-	padding-top: 5%;
+	padding-top: 15%;
+	padding-right: 5%;
+	text-align: right;
 }
 
 h3.onb {
@@ -46,6 +48,12 @@ p.onb {
     padding-top: 50%;
 }
 
+.leftcentimg {
+	display: block;
+    vertical-align: middle;
+    padding-top: 0%;
+}
+
 .images {
 	display: block;
     margin-left: auto;
@@ -55,6 +63,15 @@ p.onb {
 
 .slider {
 	height: 100vh;
+}
+
+.sliderwhite {
+	height: 100vh;
 	background-color: #FFFFFF;
+}
+
+.sliderblue {
+	height: 100vh;
+	background-color: #40b3d9;
 }
 
