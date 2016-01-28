@@ -4,6 +4,15 @@ h1.onb,h2.onb,h3.onb,h4.onb,h5.onb,h6.onb {
 	text-align: center;
 }
 
+h1.onb {
+	font-weight: 300; 
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	padding-top: 20%;
+}
+
+
 h2.onb {
 	font-weight: 300; 
 	font-size: 40px;
@@ -24,11 +33,24 @@ h3.onb {
 }
 
 h4.onb {
-	font-weight: 900; 
-	font-size: 25px;
-	color: #000000;
+	font-weight: 400; 
+	font-size: 30px;
+	color: #FFFFFF;
+	line-height: 35px;
+	padding-left: 8%;
+	padding-top: 15%;
+	text-align: left;
+	letter-spacing: 1px
+}
+
+h5.onb {
+	font-weight: 300; 
+	font-size: 50px;
+	color: #FFFFFF;
+	line-height: 45px;
+	padding-top: 15%;
 	text-align: center;
-	letter-spacing: 1px;
+	letter-spacing: 1px
 }
 
 p.onb {
@@ -70,8 +92,34 @@ p.onb {
 	background-color: #FFFFFF;
 }
 
+.sliderlightblue {
+	height: 100vh;
+	background-color: #8ed6ed;
+}
+
 .sliderblue {
 	height: 100vh;
 	background-color: #40b3d9;
+}
+
+.sliderimagebg {
+    background-image: url("/img/graphics-04.png");
+    background-size: cover;
+    background-color: #8ed6ed;
+
+}
+
+.sliderimagebg2 {
+    background-image: url("/img/graphics-05.png");
+    background-size: cover;
+    background-color: #8ed6ed;
+
+}
+
+.sliderimagebg3 {
+    background-image: url("/img/graphics-06.png");
+    background-size: cover;
+    background-color: #8ed6ed;
+
 }
 
